@@ -11,3 +11,9 @@ This project provides an efficient way to run crucial machine learning tasks, wi
 ![Prediction Screen](https://github.com/angry-coder-room/BigMart-Sales-Prediction-Portal/blob/main/docs/Prediction.png?raw=true)
 
 ![History Report](https://github.com/angry-coder-room/BigMart-Sales-Prediction-Portal/blob/main/docs/Report.png?raw=true)
+
+# API Responses
+
+![Bulk Prediction](https://github.com/angry-coder-room/BigMart-Sales-Prediction-Portal/blob/main/docs/predict%20bulk.PNG?raw=true)
+
+![Single Prediction](https://github.com/angry-coder-room/BigMart-Sales-Prediction-Portal/blob/main/docs/predict%20single.PNG?raw=true)
