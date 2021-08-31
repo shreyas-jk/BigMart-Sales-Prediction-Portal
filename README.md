@@ -1,1 +1,1 @@
-# BigMart-Sales-Prediction-Portal
+# BigMart Sales-Prediction Portal
