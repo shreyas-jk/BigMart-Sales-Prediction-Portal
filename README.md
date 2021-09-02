@@ -24,14 +24,11 @@ This project provides an efficient way to run crucial machine learning tasks, wi
     3.  XGBoost Regressor
 - Prediction
 
-<br>
-
 
 # Documentation
 
 [High Level Documentation](https://github.com/angry-coder-room/BigMart-Sales-Prediction-Portal/blob/main/docs/Sales%20Prediction%20-%20HLD.pdf)
 
-<br>
 
 # Wireframe
 
@@ -41,7 +38,6 @@ This project provides an efficient way to run crucial machine learning tasks, wi
 
 ![History Report](https://github.com/angry-coder-room/BigMart-Sales-Prediction-Portal/blob/main/docs/Report.png?raw=true)
 
-<br>
 
 # API Responses
 
