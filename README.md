@@ -7,8 +7,6 @@ This project provides an efficient way to run crucial machine learning tasks, wi
 - [Wireframe](#wireframe)
 - [API Responses](#api-responses)
 
-<br>
-
 
 # Exploratory Data Analysis
 - Categorical features cleaning
