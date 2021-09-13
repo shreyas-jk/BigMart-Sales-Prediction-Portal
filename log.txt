@@ -1,0 +1,24 @@
+13/09/2021 00:13:31 Single Sale API called
+13/09/2021 00:13:31 Receiving data from API 
+13/09/2021 00:13:31 Sales object created successfully
+13/09/2021 00:13:31 Prediction Process start
+13/09/2021 00:13:31 Loading model
+13/09/2021 00:13:31 Model loaded successfully
+13/09/2021 00:13:44 API response sent
+13/09/2021 00:14:18 Bulk Sales API called
+13/09/2021 00:14:18 Receiving data from API 
+13/09/2021 00:14:18 File received
+13/09/2021 00:14:18 File loaded as dataframe
+13/09/2021 00:14:18 Prediction Process start
+13/09/2021 00:14:18 Loading model
+13/09/2021 00:14:18 Model loaded successfully
+13/09/2021 00:14:18 Processing model prediction
+13/09/2021 00:14:18 Formulating API response
+13/09/2021 00:14:18 API response sent
+13/09/2021 00:14:41 Single Sale API called
+13/09/2021 00:14:41 Receiving data from API 
+13/09/2021 00:14:41 Sales object created successfully
+13/09/2021 00:14:41 Prediction Process start
+13/09/2021 00:14:41 Loading model
+13/09/2021 00:14:41 Model loaded successfully
+13/09/2021 00:14:41 API response sent
