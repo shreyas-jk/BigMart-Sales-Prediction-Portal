@@ -27,8 +27,8 @@ This project provides an efficient way to run crucial machine learning tasks, wi
 
 # Documentation
 
-[High Level Documentation](https://github.com/angry-coder-room/BigMart-Sales-Prediction-Portal/blob/main/docs/Sales%20Prediction%20-%20HLD.pdf)
-[Low Level Documentation](https://github.com/shreyas-jk/BigMart-Sales-Prediction-Portal/blob/main/docs/Sales%20Prediction%20-%20LLD.pdf)
+- [High Level Documentation](https://github.com/angry-coder-room/BigMart-Sales-Prediction-Portal/blob/main/docs/Sales%20Prediction%20-%20HLD.pdf)
+- [Low Level Documentation](https://github.com/shreyas-jk/BigMart-Sales-Prediction-Portal/blob/main/docs/Sales%20Prediction%20-%20LLD.pdf)
 
 
 # Wireframe
